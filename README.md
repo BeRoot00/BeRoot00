@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-###I'm Mame Birame
+### I'm Mame Birame
 ⚡Cybersecurity Apprentice Engineer
+
 🔭 I’m currently working on Offensive Security Certified Professional (OSCP)
 
 💬Dedication sees dreams come true.
