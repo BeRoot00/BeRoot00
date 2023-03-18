@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+###I'm Mame Birame
+⚡Cybersecurity Apprentice Engineer
+🔭 I’m currently working on Offensive Security Certified Professional (OSCP)
+
+💬Dedication sees dreams come true.
+
 <!--
 **BeRoot00/BeRoot00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
