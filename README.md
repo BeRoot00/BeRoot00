@@ -3,7 +3,7 @@
 ### I'm Mame Birame
 ⚡Cybersecurity Apprentice Engineer
 
-🔭 Passionate about SOC analysis and Penetration Testing
+🔭 Passionate about SOC Analysis and Penetration Testing
 
 🌱 I’m currently working on Offensive Security Certified Professional (OSCP)
 
