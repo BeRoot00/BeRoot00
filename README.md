@@ -5,7 +5,7 @@
 
 🔭 Passionate about CERT and Penetration Testing
 
-🌱 I’m currently working on Offensive Security Certified Professional (OSCP)
+🌱 In preparation for eCPPTv2 & OSCP for 2024
 
 💬Dedication sees dreams come true.
 
