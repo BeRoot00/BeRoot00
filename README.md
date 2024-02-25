@@ -3,7 +3,7 @@
 ### I'm Mame Birame
 ⚡Cybersecurity Apprentice Engineer
 
-🔭 Passionate about CERT and Penetration Testing
+🔭 Passionate about SOC, CERT and Pentesting
 
 🌱 In preparation for eCPPTv2 & OSCP for 2024
 
