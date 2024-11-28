@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### I'm Mame Birame
-⚡Cybersecurity Apprentice Engineer
+⚡Cybersecurity Engineer
 
 🔭 Passionate about SOC, CERT and Pentesting
 
