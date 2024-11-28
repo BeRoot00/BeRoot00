@@ -5,7 +5,7 @@
 
 🔭 Passionate about SOC, CERT and Pentesting
 
-🌱 In preparation for eCPPTv2 & OSCP for 2024
+🌱 In preparation for eCPPTv2 & OSCP for 2025
 
 💬Dedication sees dreams come true.
 
